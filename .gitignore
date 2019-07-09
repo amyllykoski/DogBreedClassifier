@@ -2,3 +2,5 @@
 /dogImages
 /lfw
 .DS_Store
+*.pt
+myImages/
